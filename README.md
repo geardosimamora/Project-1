@@ -1,2 +1,2 @@
 # Project-1
-Good stuff resides here
+Repository ini berisi catatan dan tugas saya selama mengikuti kursus IBM Data Science Fundamentals.
